@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Web Design (AlgoExpert)</b>
+- <b>Web Design </b>
   - [HTML and CSS Website](https://github.com/nala-tech/HTML-and-CSS-Non-Profit-Website)
-- <b>Java - Data Structures and Algorithms</b>
+- <b>Java (Data Structures and Algorithms)</b>
   - [Video Game Library](https://github.com/nala-tech/Video-Game-Library-Java)
