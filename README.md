@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nala! <br/><a href="https://github.com/nala-tech">Computer Science Student</a>, <a href="www.linkedin.com/in/nala-hamer-6927992ba">Aspiring Cybersecurity Professional</a>, <a href="https://github.com/nala-tech">Vice President of Pace Women in Cybersecurity (WiCyS) Chapter</a></h1>
+<h1>Hi, I'm Nala! <br/><a href="https://github.com/nala-tech">Computer Science Student</a>, <a href="https://www.linkedin.com/in/nala-hamer-6927992ba/">Aspiring Cybersecurity Professional</a>, <a href="https://github.com/nala-tech">Vice President of Pace Women in Cybersecurity (WiCyS) Chapter</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
