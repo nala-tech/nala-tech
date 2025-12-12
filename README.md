@@ -3,7 +3,11 @@
   <a href="https://www.linkedin.com/in/nala-hamer-6927992ba/">Aspiring Cybersecurity Professional</a>, 
   <a href="https://github.com/nala-tech">Vice President of Pace Women in Cybersecurity (WiCyS) Chapter</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👩🏾‍💻 Cybersecurity Projects:</h2>
+- <b>Python </b>
+  - [Keylogger](https://github.com/nala-tech/basic-python-keylogger)
+
+<h2>👩🏾‍💻 Software Development Projects:</h2>
 
 - <b>Web Design </b>
   - [HTML and CSS Website](https://github.com/nala-tech/HTML-and-CSS-Non-Profit-Website)
