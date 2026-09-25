@@ -8,6 +8,14 @@
 - <b>Python </b>
   - [Keylogger](https://github.com/nala-tech/basic-python-keylogger)
 
+<h2>👩🏾‍💻 Cybersecurity Compeitions:</h2>
+
+- <b>Mitre Embedded Capture the Flag Competitions (Attack/Defend Format)</b>
+  - [2026 - Secured a Hardware Security Module (HSM) responsible for protecting, storing, and controlling access to sensitive integrated circuit design data.](https://github.com/nala-tech/Mitre-ectf-posters/blob/main/Poster%20Mitre%20eCTF%202026.pdf)
+  - [2025 - Secured a satellite TV system consisting of encoders and decoders that controlled access to protected channels.](https://github.com/nala-tech/Mitre-ectf-posters/blob/main/Pace%202025%20eCTF%20Poster%20(1).pdf)
+  - [2024 - Secured a medical device component authentication system designed to verify the authenticity and integrity of embedded microcontrollers.](https://github.com/nala-tech/Mitre-ectf-posters/blob/main/PACE%202024%20eCTF%20Poster.pdf)
+
+
 <h2>👩🏾‍💻 Software Development Projects:</h2>
 
 - <b>Web Design </b>
