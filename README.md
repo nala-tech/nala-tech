@@ -5,6 +5,9 @@
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
+- <b>Lab Simulations </b>
+  - [Enterprise Linux Admin Lab](https://github.com/nala-tech/enterprise-linux-admin/blob/main/README.md)
+   
 - <b>Python </b>
   - [Keylogger](https://github.com/nala-tech/basic-python-keylogger)
 
